@@ -5,4 +5,4 @@ pip3 install -r requirements.txt --user
 python3 server.py
 
 <br />
-Sorce code witten Yosuke Nakayama
+The source codes were written by Yosuke Nakayama.
