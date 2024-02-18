@@ -1,7 +1,6 @@
 from flask import render_template, request
 from bskytimeline import app
 from atproto import Client
-from atproto_client.models.app.bsky.feed.get_timeline import Response
 
 client = Client()
 client.login('ユーザ名', 'パスワード')
